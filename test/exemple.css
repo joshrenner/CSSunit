@@ -1,0 +1,24 @@
+/* 
+    Document   : same.css
+    Created on : Sep 25, 2010, 9:40:32 PM
+    Author     : simon
+    Description:
+*/
+
+
+root { 
+    display: block;
+}
+
+#test-me p{
+	
+}
+
+h2{
+	color:green;
+}
+
+
+#titre{
+  color:red;
+}
