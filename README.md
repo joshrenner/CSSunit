@@ -6,6 +6,9 @@ Imagine, you finish the style of links or an home page. By exporting this elemen
 
 Now, if you know that an element needs to be at 30px from the border of the windows... you can also test that!
 
+### Dependencies
+- jquery
+- qunit
 
 ## Others CSS test framework
 
