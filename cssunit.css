@@ -13,11 +13,11 @@
 
 
 .cssunit-outline-element {
-  outline: 1px solid #c00;
+  outline: 1px solid #00c;
 }
 
 .cssunit-outline-element-selected {
-  outline: 1px solid #0c0;
+  outline: 2px solid #0c0;
 }
 
 #cssunit{
