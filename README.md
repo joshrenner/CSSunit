@@ -12,3 +12,7 @@ Now, if you know than an element need to be at 30px from the border of the windo
  * [http://github.com/garethr/css-test](http://github.com/garethr/css-test/)
  * [http://javascriptlint.com](http://javascriptlint.com/)
 
+
+## License
+
+ GPL V3 see LICENSE.txt or [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html)
